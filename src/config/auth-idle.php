@@ -2,5 +2,5 @@
 
 return [
     //idle session timeout in minutes
-    'timeout'           => '1',
+    'timeout'           => '3',
 ];
